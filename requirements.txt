@@ -1,0 +1,5 @@
+requests
+web3~=6.8.0
+ua_generator
+inquirer~=3.3.0
+colorama
